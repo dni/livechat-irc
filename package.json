@@ -1,0 +1,19 @@
+{
+  "name": "livechat-irc",
+  "version": "1.0.0",
+  "description": "dnilabs livechat",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dni/livechat-irc/"
+  },
+  "author": "dni",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "hubot-test-helper": "^1.4.4"
+  }
+}
